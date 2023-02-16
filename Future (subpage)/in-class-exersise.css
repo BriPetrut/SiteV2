@@ -1,0 +1,15 @@
+.menu-area {
+    position: fixed;
+    background-color: rgb(7, 17, 93);
+    top: 0%;
+    left: 0%;
+    width: 0px;
+    height: 100%;
+    cursor: crosshair;
+    transition: 3s;
+}
+
+.active {
+    height: 100%;
+}
+
